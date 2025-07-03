@@ -80,9 +80,9 @@ To demonstrate how **machine learning** can assist in **medical diagnosis**, spe
 
 | File                  | Description                         |
 |-----------------------|-------------------------------------|
-| `app.py`              | Flask backend script (if used)      |
-| `lymphography_model.joblib` | Saved ML model             |
-| `App.tsx`             | React frontend (optional)           |
+| `app.py`              | Flask backend script                |
+| `lymphography_model.joblib` | Saved ML model                |
+| `App.tsx`             | React frontend                      |
 | `requirements.txt`    | List of required Python libraries   |
 | `README.md`           | Project description                 |
 
